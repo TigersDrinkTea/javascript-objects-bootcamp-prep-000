@@ -6,5 +6,5 @@ var meals = new Object ({breakfast: 'oatmeal'})
 
 var playlist = {
   slayer:'raining blood',
-  slayer: 'dancing in the moonlight'
+  prince: 'dancing in the moonlight'
 }
