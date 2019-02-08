@@ -8,3 +8,8 @@ var playlist = {
   slayer:'raining blood',
   prince: 'dancing in the moonlight'
 }
+
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist[artistName] = songTitle
+  return playlist
+}
